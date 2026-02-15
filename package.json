@@ -1,7 +1,7 @@
 {
-  "name": "greentext-bot-1000",
+  "name": "bluesky-screencap-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node.js script that pushes a screencap to a Bluesky social media account every hour, either randomly or in order",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "@atproto/api": "^0.6.23",
-    "dotenv": "^16.3.1"
-  }
+    "dotenv": "^16.3.1",
+    "image-size": "^2.0.2"
+  },
+  "devDependencies": {},
+  "type": "commonjs"
 }
