@@ -24,9 +24,9 @@ These instructions will walk you through running this script on your local machi
 
 ### Installation
 
-1. Clone the repository to your local.
+1. Clone the repository to your local machine.
 ```
-git clone https://github.com/MitenkovIvan/bluesky-screencap-bot
+git clone <repository-url>
 ```
 
 2. Navigate to project directory.
